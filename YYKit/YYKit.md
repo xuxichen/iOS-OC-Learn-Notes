@@ -1,2 +1,1 @@
-# iOS-OC-Learn-Notes
-iOS 第三方OC主流框架的学习笔记
+# YYKit作者ibireme是同时代的传奇，网上有人说YYKit是iOS中OC中集大成者，我很赞同，特别崇拜他。所准备先从这个框架入手。而且他的代码是真的写的优雅。
